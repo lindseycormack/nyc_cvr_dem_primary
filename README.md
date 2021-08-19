@@ -1,7 +1,7 @@
 # nyc_cvr_dem_primary
 borough by borough cvr records
 
-These .csvs are done by borough with citywide and borough wide races, but not city council races. 
+These files are by borough with citywide and borough wide races, but not city council races. Records where a ballot was cast in at least one citywide or borough wide election are included.
 
 Ballots cast in person, absentee, affidavit, and other or emergency ballot are included.
 
